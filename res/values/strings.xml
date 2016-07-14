@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">口袋电台</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_radio_ui">RadioUi</string>
+    <string name="title_activity_rcoradio">Rcoradio</string>
+    <string name="title_activity_cateradio">Cateradio</string>
+    <string name="title_activity_moreradio">Moreradio</string>
+    <string name="title_activity_music_ui">MusicUi</string>
+    <string name="title_activity_rcomradio">Rcomradio</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_getdataphp">Getdataphp</string>
+    <string name="status_stop">停止播放中</string>
+    <string name="buffering">缓冲中请稍后</string>
+    <string name="chk_network">请检查网络是否连接</string>
+    <string name="bk_exit">退出</string>
+    <string name="bk_confirm">确定要退出吗?</string>
+    <string name="bk_sure">确定</string>
+    <string name="bk_playinback">后台播放</string>
+    <string name="bk_cancel">取消</string>
+    <string name="recommend">推荐</string>
+    <string name="category">分类</string>
+    <string name="no_brocast">没有选择电台</string>
+    <string name="share_msg">快快下载来感受。</string>
+    <string name="google_init_id">ca-app-pub-0243484158988577/9196272994</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4193884574207274/9653357548</string>
+    <string name="google_interstitial">ca-app-pub-4193884574207274/5083557148</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_welcomes">Welcomes</string>
+    <string name="total_radio">总台</string>
+    <string name="cn_radio">国内台</string>
+    <string name="other_radio">其他台</string>
+    <string name="total_music">音乐台</string>
+    <string name="total_information">资讯台</string>
+    <string name="total_internet">网络台</string>
+    <string name="cn_beijing">北京</string>
+    <string name="cn_guangdong">广东</string>
+    <string name="cn_henan">河南</string>
+    <string name="cn_hebei">河北</string>
+    <string name="cn_jiangxi">江西</string>
+    <string name="cn_jiangsu">江苏</string>
+    <string name="cn_shandong">山东</string>
+    <string name="cn_xinjiang">新疆</string>
+    <string name="cn_guangxi">广西</string>
+    <string name="cn_fujian">福建</string>
+    <string name="other_taiwan">台湾</string>
+    <string name="other_foreign">国外</string>
+    <string name="title">首页</string>
+    <string name="musicui">播放器</string>
+    <string name="sleeptimer">定时器</string>
+    <string name="error">报告错误</string>
+    <string name="cus">自定义</string>
+    <string name="input">提交</string>
+    <string name="input_ok">提交成功</string>
+    <string name="report">请报告不能收听的电台</string>
+    <string name="inputtitle">请输入</string>
+    <string name="closeradio">分钟关闭电台</string>
+    <string name="re_name">电台：</string>
+    <string name="re_region">分类：</string>
+    <string-array name="time_array">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>自定义</item>
+    </string-array>
+
+    <string name="title_activity_upgradeerror">Upgradeerror</string>
+
+</resources>
